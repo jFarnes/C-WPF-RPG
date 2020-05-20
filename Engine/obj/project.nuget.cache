@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJWbUZRU8NqCzPYqQEoMM98+yhJL4kiWjaQJPBrg+rPww4NZ7aCmsZU8c1I5iWWe3muuG/7FG7BrlQZa9AIbfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chepi\\OneDrive\\Documents\\GitHub\\C-WPF-RPG\\Engine\\Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chepi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chepi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
