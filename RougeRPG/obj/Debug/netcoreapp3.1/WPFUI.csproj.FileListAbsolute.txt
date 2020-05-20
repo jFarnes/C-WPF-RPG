@@ -17,3 +17,6 @@ C:\Users\chepi\OneDrive\Documents\GitHub\C-WPF-RPG\RougeRPG\obj\Debug\netcoreapp
 C:\Users\chepi\OneDrive\Documents\GitHub\C-WPF-RPG\RougeRPG\obj\Debug\netcoreapp3.1\WPFUI.dll
 C:\Users\chepi\OneDrive\Documents\GitHub\C-WPF-RPG\RougeRPG\obj\Debug\netcoreapp3.1\WPFUI.pdb
 C:\Users\chepi\OneDrive\Documents\GitHub\C-WPF-RPG\RougeRPG\obj\Debug\netcoreapp3.1\WPFUI.genruntimeconfig.cache
+C:\Users\chepi\OneDrive\Documents\GitHub\C-WPF-RPG\RougeRPG\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\chepi\OneDrive\Documents\GitHub\C-WPF-RPG\RougeRPG\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\chepi\OneDrive\Documents\GitHub\C-WPF-RPG\RougeRPG\obj\Debug\netcoreapp3.1\WPFUI.csproj.CopyComplete
