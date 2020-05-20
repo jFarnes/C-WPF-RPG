@@ -7,11 +7,11 @@ Three things I'm trying to approach with this execution:
 <li>Create an open-source RPG engine that can be easily enchanced and modified.</li>
 </ol>
 
-All the credits of this tutorial I will be following are in the following 
+<b>All the credits of this tutorial I will be following are in the following</b> 
 link: https://scottlilly.com/build-a-cwpf-rpg/ , Note that all the credits go
 to they accordingly, I was not involved in the making of such tutorial.
 
-Features of the game
+##Features of the game
 
 These are the things I want the player to be able to do in the game.
 
