@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Engine"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Engine\\Engine.csproj",
   "PreviewInSolutionExplorer": false
 }
